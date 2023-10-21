@@ -1,5 +1,3 @@
-![CodingGIF](https://user-images.githubusercontent.com/90093173/232610495-803256e5-5f67-4355-93cb-e48bed7d3ebf.gif)
-
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Versatile B.Tech Computer Science undergraduate specialization in AI/ML, full stack development, and hardware tinkering. Strong coding skills, internship experience, and successful project delivery. Eager to drive innovation and create impactful tech solutions</h3>
 
